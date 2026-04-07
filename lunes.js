@@ -1,2 +1,2 @@
 "hoy es lunes"
-"se generara conflicto"
+"se arreglo el conflicto"
