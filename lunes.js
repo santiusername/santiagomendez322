@@ -1,2 +1,2 @@
 "hoy es lunes"
-"se genero"
+"genere el conflicto"
